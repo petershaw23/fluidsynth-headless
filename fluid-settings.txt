@@ -1,0 +1,4 @@
+select 0 1 0 5
+noteon 0 60 100
+hoteon 0 65 100
+noteon 0 69 100
